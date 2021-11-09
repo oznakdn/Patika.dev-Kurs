@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\.Net Core\Pratikler\BookStore\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\.Net Core\Pratikler\BookStore\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\.Net Core\Pratikler\BookStore\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\.Net Core\Pratikler\BookStore\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\.Net Core\Pratikler\BookStore\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\.Net Core\Pratikler\BookStore\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\.Net Core\Pratikler\BookStore\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
