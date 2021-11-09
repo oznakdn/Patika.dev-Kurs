@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
