@@ -1,0 +1,16 @@
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\bin\Debug\net5.0\Loops.exe
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\bin\Debug\net5.0\Loops.deps.json
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\bin\Debug\net5.0\Loops.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\bin\Debug\net5.0\ref\Loops.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\bin\Debug\net5.0\Loops.pdb
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\ref\Loops.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.pdb
+D:\-KURSLAR-\PATİKA\Patika_C#\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

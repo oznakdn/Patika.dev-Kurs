@@ -1,0 +1,16 @@
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\-KURSLAR-\PATİKA\Patika_C#\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

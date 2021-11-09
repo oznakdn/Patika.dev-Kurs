@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\bin\Debug\net5.0\Switch-Case.exe
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\bin\Debug\net5.0\Switch-Case.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\bin\Debug\net5.0\Switch-Case.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\bin\Debug\net5.0\Switch-Case.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\bin\Debug\net5.0\Switch-Case.dll
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\bin\Debug\net5.0\ref\Switch-Case.dll
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\bin\Debug\net5.0\Switch-Case.pdb
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.dll
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\ref\Switch-Case.dll
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.pdb
+C:\Users\HP\OneDrive\Desktop\Patika_C#\Switch-Case\obj\Debug\net5.0\Switch-Case.genruntimeconfig.cache

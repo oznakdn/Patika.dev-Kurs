@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: darkgray;
+            color:darkblue;
+        }
+       
+        .header{
+            width: 500px;
+            height: auto;
+            border: 1px solid black;
+            margin: auto;
+            text-align: center;
+            margin-top: 50px;
+            padding: 10px;
+        }
+        h1{
+            text-shadow: 3px 5px 9px white;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>KODLUYORUZ</h1>
+        <h3 id="yazdir"></h3>
+        <h3 id="saat"></h3>
+        <p id="aciklama"></p>
+
+    </div>
+    
+
+
+    <script>
+
+        let isim=prompt("Adınız");
+        let saat=new Date().toLocaleTimeString();
+        let kacinciGun=new Date().getUTCDay();
+        let gun;
+        if(kacinciGun==1)
+        {
+            gun="Pazartesi";
+        }
+        else if(kacinciGun==2)
+        {
+            gun="Salı";
+        }
+        else if(kacinciGun==3)
+        {
+            gun="Çarşamba";
+        }
+        else if(kacinciGun==4)
+        {
+            gun="Perşembe";
+        }
+        else if(kacinciGun==5)
+        {
+            gun="Cuma"
+        }
+        else if(kacinciGun==6)
+        {
+            gun="Cumartesi"
+        }
+        else
+        {
+            gun="Pazar";
+        }
+
+        document.getElementById("yazdir").innerHTML="Merhaba,"+" "+ isim +"!"+" "+"Hoş geldin!"+"<br>";
+        document.getElementById("saat").innerHTML=saat+" "+gun+"<br>";
+        document.getElementById("aciklama").innerHTML="tarihinde <strong>Kodluyoruz Frontend Web Development Parikası</strong>'nın Javascript bölümü 1.Ödevindesiniz."
+    </script>
+</body>
+</html>

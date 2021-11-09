@@ -1,0 +1,60 @@
+body{
+    background-color:#FFFFFF;
+}
+
+
+header img{
+    position:initial;
+}
+.menu{
+height: 45px;
+background-color: black;
+
+}
+.menu a{
+
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size:larger;
+    color:#FFFFFF;
+    border:2px solid white;
+    border-radius: 10%;
+    background-color: black;
+}
+.markalar{
+    text-align: center;
+}
+.markalar img{
+    margin-top: 50px;
+    width: 400px;   
+}
+.mercedes{
+margin: auto;
+width:900px;
+}
+
+.mercedes img{
+    width: 600px;
+    float: left;
+}
+.bmw{
+    width:900px;
+    margin: auto;
+}
+.bmw img{
+    width: 500px;
+    float:right;
+}
+.audi{
+    margin: auto;
+    width: 900px;
+}
+.audi img{
+    width: 600px;
+    float:left;
+}
+

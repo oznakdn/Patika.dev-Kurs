@@ -1,0 +1,50 @@
+.logo{
+    text-align: center;
+    margin:auto;
+}
+.logo img{
+    width:300px;
+}
+.search{
+    text-align: center;
+    background-color:#EEEEEE ;
+    margin: 5px;
+
+}
+.searchText{
+    width: 400px;
+}
+.boxes{
+    margin-top: 1px;
+    height: 85px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+.box1,.box2,.box3{
+    padding-top: 5px;
+    height: 85px;
+    float: left;
+    background-color:#7EE5DA ;
+
+}
+.box1{
+    width: 35%;
+}
+.box2{
+    width: 16%;   
+    margin-left: 2px;
+}
+.box3{
+    width: 48.6%;
+    margin-left: 2px;
+
+}
+.footer{
+margin-top: 30px;
+text-align: center;
+}
+.button{
+    margin-top: 3px;
+    background-color: #C0C0C0;
+}
