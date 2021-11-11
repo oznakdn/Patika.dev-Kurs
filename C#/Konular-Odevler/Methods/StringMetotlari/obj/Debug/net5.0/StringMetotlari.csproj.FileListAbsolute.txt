@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\bin\Debug\net5.0\StringMetotlari.exe
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\bin\Debug\net5.0\StringMetotlari.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\bin\Debug\net5.0\StringMetotlari.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\bin\Debug\net5.0\StringMetotlari.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\bin\Debug\net5.0\StringMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\bin\Debug\net5.0\ref\StringMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\bin\Debug\net5.0\StringMetotlari.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\ref\StringMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\StringMetotlari\obj\Debug\net5.0\StringMetotlari.genruntimeconfig.cache
