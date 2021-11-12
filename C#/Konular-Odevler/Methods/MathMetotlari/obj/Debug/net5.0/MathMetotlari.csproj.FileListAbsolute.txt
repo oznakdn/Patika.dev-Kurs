@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\bin\Debug\net5.0\MathMetotlari.exe
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\bin\Debug\net5.0\MathMetotlari.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\bin\Debug\net5.0\MathMetotlari.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\bin\Debug\net5.0\MathMetotlari.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\bin\Debug\net5.0\MathMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\bin\Debug\net5.0\ref\MathMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\bin\Debug\net5.0\MathMetotlari.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\ref\MathMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\MathMetotlari\obj\Debug\net5.0\MathMetotlari.genruntimeconfig.cache

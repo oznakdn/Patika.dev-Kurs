@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\bin\Debug\net5.0\DateTimeMetotlari.exe
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\bin\Debug\net5.0\DateTimeMetotlari.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\bin\Debug\net5.0\DateTimeMetotlari.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\bin\Debug\net5.0\DateTimeMetotlari.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\bin\Debug\net5.0\DateTimeMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\bin\Debug\net5.0\ref\DateTimeMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\bin\Debug\net5.0\DateTimeMetotlari.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\ref\DateTimeMetotlari.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Methods\DateTimeMetotlari\obj\Debug\net5.0\DateTimeMetotlari.genruntimeconfig.cache
