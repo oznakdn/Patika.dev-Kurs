@@ -21,9 +21,20 @@ namespace ClassAndMembers
                  // Ya da
             employee1.EmployeeInformation(30,"Ali","Koşar");
 
+
+            Customer customer1=new Customer("Mehmet","Uzun","Mühendis"); // constructor'dan atama
+            Customer customer2=new Customer("Seda","Gezer","Öğretmen");
+            customer1.CustomerInformation();
+            customer2.CustomerInformation();
+
+        
+
+
+
         }
     }
 
+    #region Class and Class's members
     class Employee
     {
         // field
@@ -40,9 +51,35 @@ namespace ClassAndMembers
             Age=age;
             Name=name;
             Surname=surname;
-            Console.WriteLine($"Name: {name} Surname: {surname} Age: {age}");
+            Console.WriteLine($"Name: {name}, Surname: {surname}, Age: {age}");
 
         }
 
     }
+    #endregion
+
+    
+    #region Constructors
+    class Customer
+    {
+        public Customer(string firstname, string lastname, string job)
+        {
+           this.FirstName=firstname;
+           this.LastName=lastname;
+           this.Job=job;
+        }
+
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Job { get; set; }
+
+
+        public void CustomerInformation()
+        {
+            Console.WriteLine($"FirstName: {FirstName} , LastName: {LastName} , Job: {Job}");
+        }
+
+        
+    }
+    #endregion
 }
