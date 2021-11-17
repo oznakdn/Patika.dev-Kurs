@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\bin\Debug\net5.0\ClassAndMembers.exe
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\bin\Debug\net5.0\ClassAndMembers.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\bin\Debug\net5.0\ClassAndMembers.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\bin\Debug\net5.0\ClassAndMembers.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\bin\Debug\net5.0\ClassAndMembers.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\bin\Debug\net5.0\ref\ClassAndMembers.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\bin\Debug\net5.0\ClassAndMembers.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ref\ClassAndMembers.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\ClassAndMembers\obj\Debug\net5.0\ClassAndMembers.genruntimeconfig.cache
