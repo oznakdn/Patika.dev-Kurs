@@ -18,7 +18,7 @@ namespace ClassAndMembers
             employee1.Name="John";
             employee1.Surname="Flower";
             employee1.EmployeeInformation(employee1.Age,employee1.Name,employee1.Surname);
-                 // Ya da
+                 // Or
             employee1.EmployeeInformation(30,"Ali","Koşar");
 
 
@@ -27,9 +27,17 @@ namespace ClassAndMembers
             customer1.CustomerInformation();
             customer2.CustomerInformation();
 
-        
 
+            Student student1=new Student
+            {
+                Name="Ahmet",
+                Surname="Sevinç",
+                StudentNumber=1234,
+                StudentClass=2
+            };
 
+            student1.UpClass(student1.StudentNumber,student1.StudentClass);
+            student1.GetStudentInformation();
 
         }
     }
@@ -57,8 +65,6 @@ namespace ClassAndMembers
 
     }
     #endregion
-
-    
     #region Constructors
     class Customer
     {
@@ -81,5 +87,73 @@ namespace ClassAndMembers
 
         
     }
+    #endregion
+    #region Encapsulation and Properties
+    class Student
+    {
+
+        // fields
+        private string name;
+        private string surname;
+        private int studentnumber;
+        private int studentclass;
+
+
+        // properties
+        public string Name { get{return name;} set{name=value;}}
+        public string Surname { get{return surname;} set{surname=value;}}
+        public int StudentNumber
+        { 
+            get{return studentnumber;} 
+            set
+            {
+                if(value<=0)
+                {
+                    Console.WriteLine("Please, enter a number greater than 0");
+                    studentnumber=1;
+                }
+                else
+                {
+                    studentnumber=value;
+                }
+            }
+        }
+        public int StudentClass 
+        { 
+            get {return studentclass;}
+            set
+            {
+                if(value<=0)
+                {
+                   Console.WriteLine("Please, enter a number greater than 0");
+                   studentclass=1;
+                }
+                else
+                {
+                    studentclass=value;
+                }
+            } 
+        }
+        // Method
+        public void GetStudentInformation()
+        {
+           Console.WriteLine($" Name: {Name}, Surname:{Surname}, Number: {StudentNumber}, Class: {StudentClass}");
+        }
+
+        public void UpClass(int number,int student_class)
+        {  
+
+            this.StudentNumber=number;
+            this.StudentClass=student_class;
+            StudentClass++;
+            //Console.WriteLine($"{StudentNumber} number student passed {StudentClass}");
+        }
+
+
+    }
+    
+    #endregion
+    #region Static Class and its Members
+
     #endregion
 }
