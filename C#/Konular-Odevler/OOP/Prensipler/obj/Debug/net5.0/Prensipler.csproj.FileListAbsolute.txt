@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\bin\Debug\net5.0\Prensipler.exe
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\bin\Debug\net5.0\Prensipler.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\bin\Debug\net5.0\Prensipler.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\bin\Debug\net5.0\Prensipler.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\bin\Debug\net5.0\Prensipler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\bin\Debug\net5.0\ref\Prensipler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\bin\Debug\net5.0\Prensipler.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\ref\Prensipler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Prensipler\obj\Debug\net5.0\Prensipler.genruntimeconfig.cache

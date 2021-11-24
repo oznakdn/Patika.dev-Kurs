@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache

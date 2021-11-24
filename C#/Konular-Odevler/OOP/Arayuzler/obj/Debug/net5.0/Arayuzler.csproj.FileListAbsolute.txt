@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\bin\Debug\net5.0\Arayuzler.exe
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\bin\Debug\net5.0\Arayuzler.deps.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\bin\Debug\net5.0\Arayuzler.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\bin\Debug\net5.0\Arayuzler.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\bin\Debug\net5.0\Arayuzler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\bin\Debug\net5.0\ref\Arayuzler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\bin\Debug\net5.0\Arayuzler.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\ref\Arayuzler.dll
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.pdb
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\OOP\Arayuzler\obj\Debug\net5.0\Arayuzler.genruntimeconfig.cache
