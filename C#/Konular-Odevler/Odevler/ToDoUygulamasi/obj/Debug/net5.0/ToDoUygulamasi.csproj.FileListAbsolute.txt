@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Odevler\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Odevler\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Odevler\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Odevler\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Patika.dev-Kurs\C#\Konular-Odevler\Odevler\ToDoUygulamasi\obj\Debug\net5.0\ToDoUygulamasi.csproj.CoreCompileInputs.cache
