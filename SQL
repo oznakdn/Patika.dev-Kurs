@@ -1,4 +1,4 @@
-
+-----ÖDEV 1-----
 1.Soru) film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
   Cevap) select title,description from film
 2.Soru) film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
